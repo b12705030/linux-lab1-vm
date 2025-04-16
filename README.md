@@ -1,6 +1,14 @@
-# linux-lab1-vm
+# LSAP Lab 1 — 建置一個處於待補救狀態的 Linux VM container
 
-# 如何建置VM
+本專案提供一個教學用的 Linux Lab 環境（搭配 VirtualBox + Docker）
+
+## 檔案內容
+
+- `linux-lab1.zip`：lab 程式碼壓縮包
+- `setup.sh`：自動建置與啟動 container
+- `README.md`：本說明文件
+
+## 建置步驟
 
 **所需檔案：linux-lab1.zip 跟 setup.sh**
 
