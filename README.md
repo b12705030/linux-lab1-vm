@@ -12,7 +12,7 @@
 
 **所需檔案：linux-lab1.zip 跟 setup.sh**
 
-1. 在 VirtualBox 建立新 VM
+1. 在 VirtualBox 建立新 VM（依照 LSAP 要求）
 2. 設定網路：新增一張 Host-only 網卡（enp0s8）
     1. 網路連線方式：Host-only Adapter
     2. 名稱：選 `vboxnet0`
